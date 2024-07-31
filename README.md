@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/sivananthanm6" target="blank"><img src="https://img.shields.io/twitter/follow/sivananthanm6?logo=twitter&style=for-the-badge" alt="sivananthanm6" /></a> </p>
 
-- 🔭 I’m currently working on [Weather Prediction](https://msivananthan.github.io/Weather_Prediction/)
+- 🔭 I’m currently Pursuing Bachelor of Engineering Degree [Dhaanish Ahmed College of Engineering](Computer Science And Engineering)
 
 - 🌱 I’m currently learning **Web Development**
 
 - 👯 I’m looking to collaborate on [Github](https://msivananthan.github.io/Siva_Portfolio/)
 
-- 🤝 I’m looking for help with [New Project Ideas](https://msivananthan.github.io/Siva_Portfolio/)
+- 🤝 I’m looking for help with [Seeking Job As Software Profession](https://msivananthan.github.io/Siva_Portfolio/)
 
 - 👨‍💻 All of my projects are available at [https://msivananthan.github.io/Siva_Portfolio/](https://msivananthan.github.io/Siva_Portfolio/)
 

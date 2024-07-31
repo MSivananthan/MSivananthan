@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=msivananthan" alt="msivananthan" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@sivananthanm6" target="blank"><img src="https://img.shields.io/twitter/follow/@sivananthanm6?logo=twitter&style=for-the-badge" alt="@sivananthanm6" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sivananthanm6" target="blank"><img src="https://img.shields.io/twitter/follow/sivananthanm6?logo=twitter&style=for-the-badge" alt="sivananthanm6" /></a> </p>
 
 - 🔭 I’m currently working on [Weather Prediction](https://msivananthan.github.io/Weather_Prediction/)
 
-- 🌱 I’m currently learning **API SERVER CONNECTING**
+- 🌱 I’m currently learning **Web Development**
 
 - 👯 I’m looking to collaborate on [Github](https://msivananthan.github.io/Siva_Portfolio/)
 
@@ -25,7 +25,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1TuLsfzpDZfSmF1nvC1c6pGLnSrJCwqfK/view?usp=drive_link](https://drive.google.com/file/d/1TuLsfzpDZfSmF1nvC1c6pGLnSrJCwqfK/view?usp=drive_link)
 
-- ⚡ Fun fact **The programming language Python is not named after the snake. Its creator, Guido van Rossum, named it after the British comedy series "Monty Python's Flying Circus," as he wanted the language to be fun and approachable.**
+- ⚡ Fun fact **"The programming language Python is not named after the snake. Its creator, Guido van Rossum, named it after the British comedy series "Monty Python's Flying Circus," as he wanted the language to be fun and approachable."**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -33,16 +33,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@m-sivananthan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@m-sivananthan" height="30" width="40" /></a>
-<a href="https://dev.to/https://dev.to/siva__46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/siva__46" height="30" width="40" /></a>
-<a href="https://twitter.com/@sivananthanm6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sivananthanm6" height="30" width="40" /></a>
+<a href="https://codepen.io/m-sivananthan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="m-sivananthan" height="30" width="40" /></a>
+<a href="https://dev.to/siva__46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="siva__46" height="30" width="40" /></a>
+<a href="https://twitter.com/sivananthanm6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sivananthanm6" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sivananthanm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sivananthanm" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:26531931" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:26531931" height="30" width="40" /></a>
 <a href="https://kaggle.com/msivananthan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="msivananthan" height="30" width="40" /></a>
 <a href="https://fb.com/sivananthanm.m.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sivananthanm.m.9" height="30" width="40" /></a>
 <a href="https://instagram.com/_siva____46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_siva____46" height="30" width="40" /></a>
 <a href="https://medium.com/@sivananthan46m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sivananthan46m" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@sivananthanm639" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@sivananthanm639" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/sivananthanm639" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sivananthanm639" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sivananthan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sivananthan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sivananthan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sivananthan" height="30" width="40" /></a>
 </p>

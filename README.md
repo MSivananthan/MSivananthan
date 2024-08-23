@@ -12,13 +12,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<div id ="views" align="center>
-  <a href="https://komarev.com/ghpvc/?username=MSivananthan">
-  <img src="https://komarev.com/ghpvc/?username=MSivananthan&style=flat-square&color=blue" alt=""/>
-    
-  </a>
-
-</div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=msivananthan&label=Profile%20views&color=0e75b6&style=flat" alt="msivananthan" /> </p>
 
 <h1>Hi 👋, I'm M Sivananthan</h1>
 <h3 align="center">👨‍💻I am a Computer Science and Engineering student with a passion for programming and web development. I am constantly looking for opportunities to collaborate on meaningful projects, enhance user experiences, and contribute to the growth of organizations.</h3>

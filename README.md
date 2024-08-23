@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <h1 align="center">Hi 👋, I'm M Sivananthan</h1>
 <h3 align="center">👨‍💻I am a Computer Science and Engineering student with a passion for programming and web development. I am constantly looking for opportunities to collaborate on meaningful projects, enhance user experiences, and contribute to the growth of organizations.</h3>
 

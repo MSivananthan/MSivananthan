@@ -21,6 +21,7 @@
 
 
 <p align="left"> <a href="https://twitter.com/sivananthanm6" target="blank"><img src="https://img.shields.io/twitter/follow/sivananthanm6?logo=twitter&style=for-the-badge" alt="sivananthanm6" /></a> </p>
+<hr>
 
 - 🔭 I’m currently Pursuing Bachelor of Engineering Degree [Dhaanish Ahmed College of Engineering](Computer Science And Engineering)
 

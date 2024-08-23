@@ -1,5 +1,4 @@
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/jdPMeyv9rn0hZHh8n9" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/coding-programmer-ngoding-jdPMeyv9rn0hZHh8n9">via GIPHY</a></p>
-<h1 align="center">Hi 👋, I'm M Sivananthan</h1>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/jdPMeyv9rn0hZHh8n9" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/coding-programmer-ngoding-jdPMeyv9rn0hZHh8n9">via GIPHY</a></p>Hi 👋, I'm M Sivananthan</h1>
 <h3 align="center">👨‍💻I am a Computer Science and Engineering student with a passion for programming and web development. I am constantly looking for opportunities to collaborate on meaningful projects, enhance user experiences, and contribute to the growth of organizations.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msivananthan&label=Profile%20views&color=0e75b6&style=flat" alt="msivananthan" /> </p>

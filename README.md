@@ -13,7 +13,8 @@
   </a>
 </div>
 <div id ="views" align="center>
-  <a href="https://komarev.com/ghpvc/?https://github.com/MSivananthan">
+  <a href="https://komarev.com/ghpvc/?username=your-github-MSivananthan
+">
   <img src="https://komarev.com/ghpvc/?username=MSivananthan&style=flat-square&color=blue" alt=""/>
     
   </a>

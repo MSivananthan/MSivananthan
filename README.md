@@ -65,8 +65,7 @@
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="36" alt="bootstrap logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=sass" height="36" alt="sass logo"  />
-  <img width="8" />
+  
   <img src="https://skillicons.dev/icons?i=figma" height="36" alt="Figma logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=js" height="36" alt="javascript logo"  />
@@ -81,10 +80,8 @@
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=express" height="36" alt="express logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="36" alt="MongoDB logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=php" height="36" alt="php logo"  />
-  <img width="8" />
+  
+ 
   <img src="https://skillicons.dev/icons?i=mysql" height="36" alt="MySQL logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=py" height="36" alt="python logo"  />

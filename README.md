@@ -76,8 +76,7 @@
   
   <img src="https://skillicons.dev/icons?i=nodejs" height="36" alt="nodejs logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=express" height="36" alt="express logo"  />
-  <img width="8" />
+  
   
  
   <img src="https://skillicons.dev/icons?i=mysql" height="36" alt="MySQL logo"  />

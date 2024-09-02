@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://x.com/SivananthanM6">
-    <img src="https://img.shields.io/badge/LeetCode-blue?style=for-the-badge&logo=LeetCode&logoColor=yellow" alt="LeetCode Badge"/>
+    <img src="https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge&logo=LeetCode&logoColor=yellow" alt="LeetCode Badge"/>
   </a>
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=msivananthan&label=Profile%20views&color=0e75b6&style=flat" alt="msivananthan" /> </p>

@@ -17,6 +17,9 @@
   <a href="https://www.hackerrank.com/profile/sivananthan46m">
     <img src="https://img.shields.io/badge/HackerRank-white?style=for-the-badge&logo=HackerRank&logoColor=green" alt="HackerRank Badge"/>
   </a>
+  <a href="https://www.hackerrank.com/profile/sivananthan46m">
+    <img src="https://img.shields.io/badge/HackerEarth-black?style=for-the-badge&logo=HackerEarth&logoColor=green" alt="HackerEarth Badge"/>
+  </a>
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=msivananthan&label=Profile%20views&color=0e75b6&style=flat" alt="msivananthan" /> </p>
 

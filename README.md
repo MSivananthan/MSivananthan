@@ -14,6 +14,9 @@
   <a href="https://x.com/SivananthanM6">
     <img src="https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge&logo=LeetCode&logoColor=orange" alt="LeetCode Badge"/>
   </a>
+  <a href="https://x.com/SivananthanM6">
+    <img src="https://img.shields.io/badge/HackerRank-white?style=for-the-badge&logo=HackerRank&logoColor=green" alt="HackerRank Badge"/>
+  </a>
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=msivananthan&label=Profile%20views&color=0e75b6&style=flat" alt="msivananthan" /> </p>
 

@@ -72,13 +72,6 @@
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=react" height="36" alt="react logo"  />
   <img width="8" />
-  
-  
-  <img src="https://skillicons.dev/icons?i=nodejs" height="36" alt="nodejs logo"  />
-  <img width="8" />
-  
-  
- 
   <img src="https://skillicons.dev/icons?i=mysql" height="36" alt="MySQL logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=py" height="36" alt="python logo"  />

@@ -11,10 +11,10 @@
   <a href="https://x.com/SivananthanM6">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://x.com/SivananthanM6">
+  <a href="https://leetcode.com/u/Sivananthan/">
     <img src="https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge&logo=LeetCode&logoColor=orange" alt="LeetCode Badge"/>
   </a>
-  <a href="https://x.com/SivananthanM6">
+  <a href="https://www.hackerrank.com/profile/sivananthan46m">
     <img src="https://img.shields.io/badge/HackerRank-white?style=for-the-badge&logo=HackerRank&logoColor=green" alt="HackerRank Badge"/>
   </a>
 </div>

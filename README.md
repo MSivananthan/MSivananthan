@@ -143,17 +143,7 @@
 </p>
 
 
-<h2 align="left">Language Used</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msivananthan&show_icons=true&locale=en&layout=compact" alt="msivananthan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=msivananthan&show_icons=true&locale=en" alt="msivananthan" /></p>
-<h2 align="left">Stricks Maintenance ⛑ </h2>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msivananthan&" alt="msivananthan" /></p>
-<h2 align="left">Achievement Trophy 🏆</h2>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=msivananthan" alt="msivananthan" /></a> </p>
 
 
 🚀 **Let's build something amazing together!**

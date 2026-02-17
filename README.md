@@ -1,9 +1,14 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="110"/>
 </div>
 
+<h1 align="center">Hi 👋, I'm M Sivananthan</h1>
+<h3 align="center">
+Cybersecurity Advisory Specialist @ PwC | Real-Time Monitoring (SOC) | CSE Engineer | Full-Stack Developer
+</h3>
+
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/sivananthanm">
+  <a href="https://www.linkedin.com/in/sivananthanm">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/_siva____46/?hl=en">
@@ -21,42 +26,71 @@
   <img src="https://komarev.com/ghpvc/?username=msivananthan&label=Profile%20views&color=0e75b6&style=flat" alt="msivananthan" />
 </p>
 
-# Hi 👋, I'm M Sivananthan
-### 👨‍💻 Computer Science and Engineering student passionate about programming and web development. I strive to enhance user experiences and contribute to meaningful projects.
+---
+
+## 👨‍💻 Professional Summary
+I’m **M Sivananthan**, a **Cybersecurity Advisory Specialist at PwC** working in **Real-Time Monitoring**, with strong interest in **SIEM analysis, threat validation, incident handling**, and **security operations workflows**.  
+I also have a solid foundation in **software development**, where I build clean, user-focused projects using **Python, Flask, Java, SQL, and Web Technologies**.
+
+---
 
 ## 🚀 About Me
-- 🎓 **Bachelor of Engineering in CSE** - Dhaanish Ahmed College of Engineering (CGPA: 8.72/10.00)
+- 🎓 **Bachelor of Engineering in CSE** - Dhaanish Ahmed College of Engineering (**CGPA: 8.72/10.00**)
+- 💼 **Currently Working:** **PwC – Cybersecurity Advisory Specialist (Real-Time Monitoring)**
 - 🔭 **Currently Pursuing:** Infosys Springboard Python & Web Development Internship at CodeClause
 - 🌱 **Learning:** SQL, Python Flask, AWS, API Development
 - 👯 **Looking to collaborate on:** Open-source projects, Web & AI-based applications
 - 🤝 **Actively Seeking:** Software Engineer Intern/Full-time roles
-- 📫 **Contact Me:** sivananthan46m@gmail.com
+- 📫 **Contact Me:** **sivananthan46m@gmail.com**
+
+---
+
+## 🛡️ PwC Experience (Cybersecurity – Real-Time Monitoring)
+### **PwC – Cybersecurity Advisory Specialist**
+**Domain:** Real-Time Monitoring (SOC Operations)
+
+- ✅ **Alert triage**
+- ✅ **False positive filtering**
+- ✅ **Incident prioritization**
+- ✅ **Log analysis**
+- ✅ **Threat validation**
+- ✅ **Documentation**
+- ✅ **Evidence collection**
+- ✅ **Escalation to L2**
+- ✅ **SIEM tools:** Splunk, QRadar
+- ✅ **Basic investigations**
+- ✅ **Shift logging**
+- ✅ **SOP adherence**
+- ✅ **Common threats:** phishing, malware
+
+---
 
 ## 🏆 Achievements
-- **Outstanding Student of the Year Award 2024** 🎖
-- **Infosys Springboard Python Foundation Certification** (Aug 2024)
-- **TCS CodeVita & Career Edge Certification** (May 2024)
-- **IBM Cloud Computing - Naan Mudhalvan** (Dec 2023)
+- 🥇 **Outstanding Student of the Year Award 2024**
+- 📜 **Infosys Springboard Python Foundation Certification** (Aug 2024)
+- 📜 **TCS CodeVita & Career Edge Certification** (May 2024)
+- ☁️ **IBM Cloud Computing - Naan Mudhalvan** (Dec 2023)
+
+---
 
 ## 🔨 Skills & Technologies
+
+### 🧠 Core Skills
+- **SOC Monitoring & Alert Handling**
+- **SIEM Analysis & Threat Validation**
+- **Incident Prioritization & Escalation**
+- **Log Analysis & Evidence Collection**
+- **Documentation & Shift Handover**
+
+### 💻 Programming & Development
 - **Languages:** Python, Java, C (Basics), HTML/CSS, JavaScript, MySQL, AWS
-- **Developer Tools:** VS Code, Eclipse, Figma, Android Studio, AWS Cloud Platform
 - **Frameworks & Platforms:** React, Flask, Git/GitHub
+- **Developer Tools:** VS Code, Eclipse, Figma, Android Studio, AWS Cloud Platform
 - **Soft Skills:** Problem-solving, Teamwork, Adaptability, Leadership
 
-## 💼 Experience
+---
 
-### **PwC – Cybersecurity Advisory Specialist (Real-time Monitoring)**
-- Performed **real-time security monitoring** and **alert triage** to identify potential threats across enterprise environments
-- Conducted **false positive filtering** by validating alert context and log correlation to reduce noise and improve SOC efficiency
-- Supported **incident prioritization** based on severity, asset criticality, and potential business impact
-- Executed **log analysis** and **threat validation** using SIEM and security telemetry to confirm malicious activity
-- Collected and documented **evidence** for investigation workflows, ensuring audit-ready reporting and traceability
-- Performed **basic investigations** into suspicious activities, including common threats such as **phishing** and **malware**
-- Maintained clear **shift logging**, ensuring smooth handover and operational continuity between SOC teams
-- Followed strict **SOP adherence** for alert handling, documentation, escalation, and response coordination
-- Escalated confirmed incidents to **L2 teams** with complete supporting details, artifacts, and investigation notes
-- Hands-on exposure with SIEM tools such as **Splunk** and **IBM QRadar**
+## 💼 Additional Experience
 
 ### **CodeClause Internship (July 2024) - Web Development**
 - Developed responsive web features using **HTML, CSS, JavaScript**
@@ -67,6 +101,8 @@
 - Built **"Unified Family Finance Tracker"** (Flask, Matplotlib, SQLAlchemy)
 - Gained hands-on experience in **backend development & data visualization**
 - Worked in a **collaborative team environment** improving software skills
+
+---
 
 ## 🔥 Notable Projects
 
@@ -88,53 +124,68 @@
 - A seamless online shopping platform with efficient **order management**
 - **Tech Stack:** MERN Stack (MongoDB, Express.js, React, Node.js)
 
-<h2 align="left">Languages and Tools:</h2>
+---
+
+<h2 align="left">🧰 Languages and Tools</h2>
 
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="42" height="42"/>
   </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42"/>
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42"/>
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42"/>
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42"/>
   </a>
 </p>
 
+---
+
 ## 📊 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msivananthan&show_icons=true&locale=en&layout=compact" alt="msivananthan" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=msivananthan&show_icons=true&locale=en" alt="msivananthan" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msivananthan&show_icons=true&locale=en&layout=compact" alt="msivananthan" />
+</p>
+
+<p>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=msivananthan&show_icons=true&locale=en" alt="msivananthan" />
+</p>
+
+---
 
 ## 🎯 Streak Stats
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msivananthan&" alt="msivananthan" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msivananthan&" alt="msivananthan" />
+</p>
+
+---
 
 ## 🏆 GitHub Trophies
 <p align="left">
@@ -143,14 +194,9 @@
   </a>
 </p>
 
-## 🌍 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivananthanm)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SivananthanM6)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/msivananthan)
+---
 
 <h2 align="left">Skills Toolbox 🔨</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="html5 logo"  />
@@ -172,7 +218,9 @@
   <img src="https://skillicons.dev/icons?i=git" height="36" alt="git logo"  />
 </div>
 
-<h2 align="left">Connect with me:</h2>
+---
+
+<h2 align="left">🌍 Connect with me</h2>
 
 <p align="left">
 <a href="https://codepen.io/m-sivananthan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="m-sivananthan" height="30" width="40" /></a>
@@ -189,4 +237,6 @@
 <a href="https://www.leetcode.com/sivananthan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sivananthan" height="30" width="40" /></a>
 </p>
 
-🚀 **Let's build something amazing together!**
+---
+
+🚀 <b>Let's build something amazing together!</b>

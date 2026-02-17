@@ -6,9 +6,9 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="110"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm M Sivananthan</h1>
+<h1 align="center">Hello, I'm M Sivananthan</h1>
 <h3 align="center">
-Cybersecurity Advisory Specialist @ PwC | Real-Time Monitoring (SOC) | CSE Engineer | Full-Stack Developer
+🛡️ Cybersecurity Advisory Specialist @ PwC | 📡 Real-Time Monitoring (SOC) | 🎓 CSE Engineer | 💻 Full-Stack Developer
 </h3>
 
 <div id="badges" align="center">
@@ -32,99 +32,99 @@ Cybersecurity Advisory Specialist @ PwC | Real-Time Monitoring (SOC) | CSE Engin
 
 ---
 
-## 👨‍💻 Professional Summary
+## 🧾 Professional Summary
 I’m **M Sivananthan**, a **Cybersecurity Advisory Specialist at PwC** working in **Real-Time Monitoring**, with strong interest in **SIEM analysis, threat validation, incident handling**, and **security operations workflows**.  
 I also have a solid foundation in **software development**, where I build clean, user-focused projects using **Python, Flask, Java, SQL, and Web Technologies**.
 
 ---
 
-## 🚀 About Me
+## 👤 About Me
 - 🎓 **Bachelor of Engineering in CSE** - Dhaanish Ahmed College of Engineering (**CGPA: 8.72/10.00**)
-- 💼 **Currently Working:** **PwC – Cybersecurity Advisory Specialist (Real-Time Monitoring)**
-- 🔭 **Currently Pursuing:** Infosys Springboard Python & Web Development Internship at CodeClause
-- 🌱 **Learning:** SQL, Python Flask, AWS, API Development
-- 👯 **Looking to collaborate on:** Open-source projects, Web & AI-based applications
-- 🤝 **Actively Seeking:** Software Engineer Intern/Full-time roles
-- 📫 **Contact Me:** **sivananthan46m@gmail.com**
+- 🏢 **Currently Working:** **PwC – Cybersecurity Advisory Specialist (Real-Time Monitoring)**
+- 📌 **Currently Pursuing:** Infosys Springboard Python & Web Development Internship at CodeClause
+- 📚 **Learning:** SQL, Python Flask, AWS, API Development
+- 🤝 **Looking to collaborate on:** Open-source projects, Web & AI-based applications
+- 🎯 **Actively Seeking:** Software Engineer Intern/Full-time roles
+- ✉️ **Contact Me:** **sivananthan46m@gmail.com**
 
 ---
 
 ## 🛡️ PwC Experience (Cybersecurity – Real-Time Monitoring)
-### **PwC – Cybersecurity Advisory Specialist**
+### 🏢 **PwC – Cybersecurity Advisory Specialist**
 **Domain:** Real-Time Monitoring (SOC Operations)
 
-- ✅ **Alert triage**
-- ✅ **False positive filtering**
-- ✅ **Incident prioritization**
-- ✅ **Log analysis**
+- 🔍 **Alert triage**
+- 🧹 **False positive filtering**
+- 🚦 **Incident prioritization**
+- 🧾 **Log analysis**
 - ✅ **Threat validation**
-- ✅ **Documentation**
-- ✅ **Evidence collection**
-- ✅ **Escalation to L2**
-- ✅ **SIEM tools:** Splunk, QRadar
-- ✅ **Basic investigations**
-- ✅ **Shift logging**
-- ✅ **SOP adherence**
-- ✅ **Common threats:** phishing, malware
+- 📝 **Documentation**
+- 📂 **Evidence collection**
+- 📤 **Escalation to L2**
+- 📊 **SIEM tools:** Splunk, QRadar
+- 🕵️ **Basic investigations**
+- 🕒 **Shift logging**
+- 📌 **SOP adherence**
+- ⚠️ **Common threats:** phishing, malware
 
 ---
 
-## 🏆 Achievements
-- 🥇 **Outstanding Student of the Year Award 2024**
+## 🏅 Achievements
+- 🏆 **Outstanding Student of the Year Award 2024**
 - 📜 **Infosys Springboard Python Foundation Certification** (Aug 2024)
 - 📜 **TCS CodeVita & Career Edge Certification** (May 2024)
 - ☁️ **IBM Cloud Computing - Naan Mudhalvan** (Dec 2023)
 
 ---
 
-## 🔨 Skills & Technologies
+## 🧰 Skills & Technologies
 
-### 🧠 Core Skills
-- **SOC Monitoring & Alert Handling**
-- **SIEM Analysis & Threat Validation**
-- **Incident Prioritization & Escalation**
-- **Log Analysis & Evidence Collection**
-- **Documentation & Shift Handover**
+### 🛡️ Cybersecurity Skills
+- 🔎 SOC Monitoring & Alert Handling
+- 📊 SIEM Analysis & Threat Validation
+- 🚨 Incident Prioritization & Escalation
+- 🧾 Log Analysis & Evidence Collection
+- 📝 Documentation & Shift Handover
 
 ### 💻 Programming & Development
-- **Languages:** Python, Java, C (Basics), HTML/CSS, JavaScript, MySQL, AWS
-- **Frameworks & Platforms:** React, Flask, Git/GitHub
-- **Developer Tools:** VS Code, Eclipse, Figma, Android Studio, AWS Cloud Platform
-- **Soft Skills:** Problem-solving, Teamwork, Adaptability, Leadership
+- 🧑‍💻 **Languages:** Python, Java, C (Basics), HTML/CSS, JavaScript, MySQL, AWS
+- 🧩 **Frameworks & Platforms:** React, Flask, Git/GitHub
+- 🛠️ **Developer Tools:** VS Code, Eclipse, Figma, Android Studio, AWS Cloud Platform
+- 🤝 **Soft Skills:** Problem-solving, Teamwork, Adaptability, Leadership
 
 ---
 
 ## 💼 Additional Experience
 
-### **CodeClause Internship (July 2024) - Web Development**
-- Developed responsive web features using **HTML, CSS, JavaScript**
-- Collaborated on API development & Git-based project management
-- Enhanced UX through troubleshooting and optimization
+### 🌐 **CodeClause Internship (July 2024) - Web Development**
+- 🧱 Developed responsive web features using **HTML, CSS, JavaScript**
+- 🔗 Collaborated on API development & Git-based project management
+- ⚙️ Enhanced UX through troubleshooting and optimization
 
-### **Infosys Springboard (Feb 2025) - Python & Flask**
-- Built **"Unified Family Finance Tracker"** (Flask, Matplotlib, SQLAlchemy)
-- Gained hands-on experience in **backend development & data visualization**
-- Worked in a **collaborative team environment** improving software skills
+### 🐍 **Infosys Springboard (Feb 2025) - Python & Flask**
+- 🏗️ Built **"Unified Family Finance Tracker"** (Flask, Matplotlib, SQLAlchemy)
+- 📈 Gained hands-on experience in **backend development & data visualization**
+- 🤝 Worked in a **collaborative team environment** improving software skills
 
 ---
 
-## 🔥 Notable Projects
+## 🚀 Notable Projects
 
-### **Unified Family Finance Tracker** (Feb 2025)
+### 💰 **Unified Family Finance Tracker** (Feb 2025)
 - A real-time **family finance management** platform
 - Features: Expense tracking, Budgeting, Savings goal setting
 - **Tech Stack:** Python Flask, Matplotlib, SQLAlchemy, HTML/CSS/JS
 
-### **Weather Prediction Web App** (Jan 2024)
+### 🌦️ **Weather Prediction Web App** (Jan 2024)
 - Real-time weather updates using **OpenWeather API**
 - **Tech Stack:** HTML/CSS, JavaScript, VS Code
 
-### **RideShare Application** (Nov 2023)
+### 🚗 **RideShare Application** (Nov 2023)
 - AI-powered employee commute optimization using **Google Maps API & Firebase**
 - Real-time ride-matching & sustainability metrics
 - **Tech Stack:** HTML/CSS, JavaScript, Firebase
 
-### **E-Commerce Site** (Nov 2023)
+### 🛒 **E-Commerce Site** (Nov 2023)
 - A seamless online shopping platform with efficient **order management**
 - **Tech Stack:** MERN Stack (MongoDB, Express.js, React, Node.js)
 
@@ -184,7 +184,7 @@ I also have a solid foundation in **software development**, where I build clean,
 
 ---
 
-## 🎯 Streak Stats
+## 📈 Streak Stats
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msivananthan&" alt="msivananthan" />
 </p>
@@ -200,7 +200,7 @@ I also have a solid foundation in **software development**, where I build clean,
 
 ---
 
-<h2 align="left">Skills Toolbox 🔨</h2>
+<h2 align="left">🧩 Skills Toolbox</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="html5 logo"  />
@@ -224,7 +224,7 @@ I also have a solid foundation in **software development**, where I build clean,
 
 ---
 
-<h2 align="left">🌍 Connect with me</h2>
+<h2 align="left">🌐 Connect with me</h2>
 
 <p align="left">
 <a href="https://codepen.io/m-sivananthan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="m-sivananthan" height="30" width="40" /></a>
@@ -243,4 +243,5 @@ I also have a solid foundation in **software development**, where I build clean,
 
 ---
 
-🚀 <b>Let's build something amazing together!</b>
+📌 <b>Open to collaboration, internships, and full-time opportunities.</b>  
+🤝 <b>Let’s build something impactful together!</b>

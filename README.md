@@ -49,7 +49,7 @@
 <!-- GLITCH EFFECT HEADER WITH CYBER SYMBOLS -->
 <h1 align="center">
   <span style="color: #00ff00; text-shadow: 3px 3px 0 #ff00ff, -3px -3px 0 #00ffff, 0 0 20px #00ff00; font-size: 2.2em;">
-    ⚡ ⎧⚡⎨⚡⎬ ⚡ [ M SIVANANTHAN - CYBERFRONT SECURITY ] ⚡ ⎧⚡⎨⚡⎬ ⚡
+    ⚡ ⎧⚡ [ M SIVANANTHAN - CYBERFRONT SECURITY ] ⚡ ⎧⚡
   </span>
 </h1>
 

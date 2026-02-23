@@ -52,6 +52,17 @@
     ⚡ ⎧⚡ [ M SIVANANTHAN - CYBERFRONT SECURITY ] ⚡ ⎧⚡
   </span>
 </h1>
+<p align="center">
+       <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmx0dTNuYTNzaGphdmkycWU5MmcyNzZsdWdtejMxejMzc2dvd3ZqOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UoSEtUTApApO7TBgtZ/giphy.gif"
+          alt="Digital Cyber Network and Coding"
+          width="90%"
+          style="
+             border-radius: 20px;
+             border: 2px solid #1f6feb;
+             box-shadow:
+                 0 0 20px rgba(11,480,535,0.7),
+                 0 0 40px rgba(11,481,535,0.4);
+                 " />
 
 <!-- MATRIX RAIN ASCII HEADER -->
 <div align="center">

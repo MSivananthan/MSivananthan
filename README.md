@@ -130,7 +130,7 @@ I also have a solid foundation in **software development**, where I build clean,
 
 <!-- ANIMATED THREAT FEED FOR SOC ACTIVITIES -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Monospace&weight=600&size=16&duration=1500&pause=200&color=00FF00&center=true&vCenter=true&width=950&lines=%5BSOC%5D+2025-02-19+08:00:+Shift+started+-+Monitoring+active;%5BALERT%5D+2025-02-19+09:15:+Phishing+email+detected;%5BACTION%5D+2025-02-19+09:20:+Alert+triage+completed;%5BINFO%5D+2025-02-19+10:30:+False+positive+filtering;%5BESCALATION%5D+2025-02-19+11:45:+Malware+alert+escalated+to+L2;%5BLOG%5D+2025-02-19+13:00:+Evidence+collection+in+progress;%5BSUMMARY%5D+2025-02-19+16:00:+Shift+handover+completed" alt="SOC Feed" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Monospace&weight=600&size=16&duration=1500&pause=200&color=00FF00&center=true&vCenter=true&width=950&lines=%5BSOC%5D+Shift+started+-+Monitoring+active;%5BALERT%5D+Phishing+email+detected;%5BACTION%5D+Alert+triage+completed;%5BINFO%5D+False+positive+filtering;%5BESCALATION%5D+Malware+alert+escalated+to+L2;%5BLOG%5D+Evidence+collection+in+progress;%5BSUMMARY%5D++Shift+handover+completed" alt="SOC Feed" />
 </p>
 
 - 🔍 **Alert triage** - Prioritizing and categorizing security alerts

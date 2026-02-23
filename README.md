@@ -165,7 +165,10 @@ I also have a solid foundation in **software development**, where I build clean,
 
 <!-- ANIMATED THREAT MAP (GIF) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXlrejZ0bGJrZWZ2dXl4d3F5b3JwN3l4bG5ycGx2aTR5d3RqaGZ6NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abAHdYvZdZsA1Jm/giphy.gif" alt="Global Cyber Attack Map" width="85%" style="border: 3px solid #00ff00; border-radius: 15px; box-shadow: 0 0 30px #00ff00;" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1zZ3FjN3l3a3F2bGQ2b2FqM2h4Y3J6b3FjY2Z4a3F6eWZrZ3R5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlBO7eyXzSZkJri/giphy.gif" 
+     alt="Cyber Security Animation" 
+     width="85%" 
+     style="border: 3px solid #00ff00; border-radius: 15px; box-shadow: 0 0 30px #00ff00;" />
   <br />
   <em><span style="color:#00aa00;">> Global threat visualization (live simulation) <</span></em>
 </p>

@@ -57,9 +57,9 @@
 <div align="center">
   <pre style="color:#00ff00; background:#0a0f0f; padding: 15px; border: 3px solid #00ff00; border-radius: 15px; font-size: 14px; box-shadow: 0 0 30px #00ff0033;">
 ╔══════════════════════════════════════════════════════════════════════════╗
-║  01010000 01110111 01000011 00100000 01010011 01000101 01000011 01010101 ║
-║  01010010 01001001 01010100 01011001 00100000 01010011 01010000 01000101 ║
-║  01000011 01001001 01000001 01001100 01001001 01010011 01010100 00100000 ║
+║  Full Stack Web Development Python Developer Frontend Developer          ║
+║  Software Testing (Manual & Automation) Data Science & Data Analytics    ║
+║                 SOC Analyst / Cybersecurity                              ║
 ╚══════════════════════════════════════════════════════════════════════════╝
   </pre>
 </div>
@@ -92,6 +92,18 @@ I’m **M Sivananthan**, a **Cybersecurity Advisory Specialist at PwC** working 
 I also have a solid foundation in **software development**, where I build clean, user-focused projects using **Python, Flask, Java, SQL, and Web Technologies**.
 
 ---
+
+<p align="center">
+       <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTRpcnZrcTRob21iN3c0NXQya21uaTR5ZGV1OGgwYXdwODlybTBreCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RKAVHz3dIHKmXHnlDG/giphy.gif"
+          alt="Digital Cyber Network and Coding"
+          width="90%"
+          style="
+             border-radius: 20px;
+             border: 2px solid #1f6feb;
+             box-shadow:
+                 0 0 20px rgba(31,180,235,0.7),
+                 0 0 40px rgba(31,181,435,0.4);
+                 " />
 
 <!-- ====================================================================== -->
 <!-- OPERATOR PROFILE SECTION (ENHANCED WITH CYBER STYLE) -->
@@ -165,10 +177,16 @@ I also have a solid foundation in **software development**, where I build clean,
 
 <!-- ANIMATED THREAT MAP (GIF) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1zZ3FjN3l3a3F2bGQ2b2FqM2h4Y3J6b3FjY2Z4a3F6eWZrZ3R5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlBO7eyXzSZkJri/giphy.gif" 
-     alt="Cyber Security Animation" 
-     width="85%" 
-     style="border: 3px solid #00ff00; border-radius: 15px; box-shadow: 0 0 30px #00ff00;" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDV5bGd3aWhjc3pvNWlzZzZodGJqM3ZwNjRvOWY3YnMweGQybjkwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VGwTq3G6a39cI/giphy.gif"
+     alt="Digital Cyber Network and Coding"
+     width="90%"
+     style="
+        border-radius: 20px;
+        border: 2px solid #1f6feb;
+        box-shadow:
+            0 0 20px rgba(31,111,235,0.7),
+            0 0 40px rgba(31,111,235,0.4);
+     " />
   <br />
   <em><span style="color:#00aa00;">> Global threat visualization (live simulation) <</span></em>
 </p>

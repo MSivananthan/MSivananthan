@@ -160,7 +160,7 @@ I also have a solid foundation in **software development**, where I build clean,
 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Monospace&weight=600&size=16&duration=1500&pause=200&color=00FF00&center=true&vCenter=true&width=950&lines=%5BTHREAT+INTEL%5D+2025-02-19+13:37:01+APT29+activity+detected+in+region;%5BINFO%5D+2025-02-19+13:37:04+Correlating+with+SIEM+alerts;%5BALERT%5D+2025-02-19+13:37:09+Phishing+campaign+targeting+finance;%5BINFO%5D+2025-02-19+13:37:15+IOCs+extracted+and+shared;%5BALERT%5D+2025-02-19+13:37:22+Emotet+C2+infrastructure+identified;%5BINFO%5D+2025-02-19+13:37:30+Threat+hunt+initiated+for+Lazarus+TTPs;%5BALERT%5D+2025-02-19+13:37:38+Log4j+exploit+attempts+blocked;%5BINFO%5D+2025-02-19+13:37:45+All+systems+operational;+Continuing+monitoring;" alt="Threat Feed" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Monospace&weight=600&size=16&duration=1500&pause=200&color=00FF00&center=true&vCenter=true&width=950&lines=%5BTHREAT+INTEL%5D+APT29+activity+detected+in+region;%5BINFO%5D+Correlating+with+SIEM+alerts;%5BALERT%5D+Phishing+campaign+targeting+finance;%5BINFO%5D+IOCs+extracted+and+shared;%5BALERT%5D+Emotet+C2+infrastructure+identified;%5BINFO%5D+Threat+hunt+initiated+for+Lazarus+TTPs;%5BALERT%5D+Log4j+exploit+attempts+blocked;%5BINFO%5D+All+systems+operational;+Continuing+monitoring;" alt="Threat Feed" />
 </p>
 
 <!-- ANIMATED THREAT MAP (GIF) -->
